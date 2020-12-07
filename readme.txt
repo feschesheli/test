@@ -1,1 +1,1 @@
-First Commit eine lokale Änderung eine remote Änderung
+First Commit eine lokale eine remote Änderung
